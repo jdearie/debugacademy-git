@@ -88,7 +88,7 @@ On your newest branch, write the company you are representing, if any: EPA
 Also, (optionally) check the appropriate boxes as they apply to you or the company you represent:  
 [x] Interested in hearing about upcoming Debug Academy classes  
 [ ] Interested in hiring Drupal developers  
-[ ] Interested in discussing something else with Debug Academy  
+[x] Interested in discussing something else with Debug Academy
 [ ] None of the above  
 
 Wonderful - more edits have been made, but this time on a different branch (version of the repository.) Stage (see the above git add command) and commit (see the above git commit command) your changes, as you have done before.  
